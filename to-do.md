@@ -1,5 +1,7 @@
 *This is a recommended list of what needs to be done to host and promote Jupyter Community Calls*
 
+# To Do
+
 ## Schedule call
 - [ ] Schedule on Jupyter [Zoom](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
 - [ ] Schedule on Jupyter calendar ([this one](https://jupyter.readthedocs.io/en/latest/community/content-community.html#jupyter-community-meetings))
