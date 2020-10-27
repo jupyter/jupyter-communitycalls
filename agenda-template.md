@@ -34,11 +34,11 @@ For more discussion on the format of these calls, see the thread [here](https://
 
 This is a place to make short announcements (without a need for discussion). 
 
-* [name=Name] This is an example of short report formatting.
+* **Name** This is an example of short report formatting.
 
 
 ## Agenda Items
 
 Add agenda items here **before** the meeting. We will reorganize the agenda so that it fits in the 60m meeting slot.
 
-* [name=Name] This is an example of agenda item formatting.
+* **Name** This is an example of agenda item formatting.
