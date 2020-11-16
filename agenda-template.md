@@ -7,7 +7,12 @@ tags: jupyter
 
 **Video-conference link:** https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09
 
-**Discourse**: https://discourse.jupyter.org/t/jupyter-community-calls/668
+**Discourse:** https://discourse.jupyter.org/t/jupyter-community-calls/668
+
+**Please note:**
+- Community calls are recorded and posted to this [playlist](https://www.youtube.com/playlist?list=PLUrHeD2K9Cmkoamm4NjLmvXC4Y6E1o8SP)
+- These notes will be recorded and posted [here](https://jupyter.readthedocs.io/en/latest/community/community-call-notes/index.html)
+- Everyone present is held to the [Jupyter Code of Conduct](https://jupyter.org/conduct)
 
 **Welcome!**
 
