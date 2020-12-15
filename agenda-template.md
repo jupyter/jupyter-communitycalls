@@ -47,3 +47,7 @@ This is a place to make short announcements (without a need for discussion).
 Add agenda items here **before** the meeting. We will reorganize the agenda so that it fits in the 60m meeting slot.
 
 * **Name** This is an example of agenda item formatting.
+
+## Other Links Shared
+
+This is a space to store links shared during community call discussions related to or separate from the agenda items.
