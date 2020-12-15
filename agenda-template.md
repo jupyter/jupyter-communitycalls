@@ -9,6 +9,8 @@ tags: jupyter
 
 **Discourse:** https://discourse.jupyter.org/t/jupyter-community-calls/668
 
+**Give feedback on the call:** https://docs.google.com/forms/d/e/1FAIpQLScwfYswVhafS9PVIoQYepIExq3f-FP7EmsAFULCiTIgc7mRSA/viewform
+
 **Please note:**
 - Community calls are recorded and posted to this [playlist](https://www.youtube.com/playlist?list=PLUrHeD2K9Cmkoamm4NjLmvXC4Y6E1o8SP)
 - These notes will be recorded and posted [here](https://jupyter.readthedocs.io/en/latest/community/community-call-notes/index.html)
