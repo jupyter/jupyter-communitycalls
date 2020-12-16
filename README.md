@@ -1,5 +1,5 @@
 # jupyter-communitycalls
-Resources for planning and hosting the Jupyter community calls.
+Resources for planning and hosting the Jupyter community calls. Community calls are a place to have fun and celebrate the cool things people do with/in the Jupyter ecosystem and are open to all.
 
 # Next call: January 26 9am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2020-01-26/09:00/Jupyter%20Community%20Call))
 
@@ -8,6 +8,8 @@ Resources for planning and hosting the Jupyter community calls.
 [![Give feedback](https://img.shields.io/badge/-Give%20feedback-blue)](https://docs.google.com/forms/d/e/1FAIpQLScwfYswVhafS9PVIoQYepIExq3f-FP7EmsAFULCiTIgc7mRSA/viewform?usp=sf_link)
 
 [![Request to host](https://img.shields.io/badge/-Request%20to%20host-blueviolet)](https://gitter.im/isabela-pf)
+
+[![Join on Zoom](https://img.shields.io/badge/-Join%20on%20Zoom-brightgreen)](https://gitter.im/isabela-pf)
 
 ## Index
 
