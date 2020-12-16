@@ -1,7 +1,7 @@
 # jupyter-communitycalls
 Resources for planning and hosting the Jupyter community calls. Community calls are a place to have fun and celebrate the cool things people do with/in the Jupyter ecosystem and are open to all.
 
-# Next call: January 26 9am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2020-01-26/09:00/Jupyter%20Community%20Call))
+# Next call: February 23 9am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2021-02-23/09:00/Jupyter%20Community%20Call))
 
 [![Sign up to present](https://img.shields.io/badge/-Sign%20up%20to%20present-orange)](https://hackmd.io/l2yBruUATC6yH4F2gOUPgw)
 
