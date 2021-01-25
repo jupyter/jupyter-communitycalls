@@ -9,7 +9,7 @@ Resources for planning and hosting the Jupyter community calls. Community calls 
 
 [![Request to host](https://img.shields.io/badge/-Request%20to%20host-blueviolet)](https://gitter.im/isabela-pf)
 
-[![Join on Zoom](https://img.shields.io/badge/-Join%20on%20Zoom-brightgreen)](https://gitter.im/isabela-pf)
+[![Join on Zoom](https://img.shields.io/badge/-Join%20on%20Zoom-brightgreen)](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
 
 ## Index
 
@@ -23,7 +23,7 @@ Resources for planning and hosting the Jupyter community calls. Community calls 
 [Recorded calls playlist](https://www.youtube.com/playlist?list=PLUrHeD2K9Cmkoamm4NjLmvXC4Y6E1o8SP)
 
 ### For Participants
-[Sign up to present](https://hackmd.io/l2yBruUATC6yH4F2gOUPgw)
+[Sign up to present](https://hackmd.io/WZ9DCwZrQummM89-k3bC0A)
 
 [Give feedback](https://docs.google.com/forms/d/e/1FAIpQLScwfYswVhafS9PVIoQYepIExq3f-FP7EmsAFULCiTIgc7mRSA/viewform?usp=sf_link)
 
