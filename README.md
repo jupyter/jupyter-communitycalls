@@ -1,9 +1,9 @@
 # jupyter-communitycalls
 Resources for planning and hosting the Jupyter community calls. Community calls are a place to have fun and celebrate the cool things people do with/in the Jupyter ecosystem and are open to all.
 
-# Next call: February 23 9am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2021-02-23/09:00/Jupyter%20Community%20Call))
+# Next call: February 23 at 9am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2021-03-30/09:00/Jupyter%20Community%20Call))
 
-[![Sign up to present](https://img.shields.io/badge/-Sign%20up%20to%20present-orange)](https://hackmd.io/WZ9DCwZrQummM89-k3bC0A)
+[![Sign up to present](https://img.shields.io/badge/-Sign%20up%20to%20present-orange)](https://hackmd.io/lF1oA6PcSnmuVSwGyPLyLQ)
 
 [![Give feedback](https://img.shields.io/badge/-Give%20feedback-blue)](https://docs.google.com/forms/d/e/1FAIpQLScwfYswVhafS9PVIoQYepIExq3f-FP7EmsAFULCiTIgc7mRSA/viewform?usp=sf_link)
 
@@ -23,7 +23,7 @@ Resources for planning and hosting the Jupyter community calls. Community calls 
 [Recorded calls playlist](https://www.youtube.com/playlist?list=PLUrHeD2K9Cmkoamm4NjLmvXC4Y6E1o8SP)
 
 ### For Participants
-[Sign up to present](https://hackmd.io/WZ9DCwZrQummM89-k3bC0A)
+[Sign up to present](https://hackmd.io/lF1oA6PcSnmuVSwGyPLyLQ)
 
 [Give feedback](https://docs.google.com/forms/d/e/1FAIpQLScwfYswVhafS9PVIoQYepIExq3f-FP7EmsAFULCiTIgc7mRSA/viewform?usp=sf_link)
 
