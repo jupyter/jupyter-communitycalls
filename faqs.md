@@ -6,16 +6,16 @@ source and scientific computing in any capacity, this is a place for you.
 
 ## How can I join in?
 You can join a community call in a few different ways.
-- Join us from the call link on the [readme](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme) 
+- Join us from the call link on the [README.md](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme) 
 at the time of the call to 
 attend. You don’t have to turn on your camera, speak, or do anything but 
 listen unless you want to.
 - Share something with the community by adding to the agenda (linked on the 
-[readme](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme)) 
+[README.md](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme)) 
 before the call. This can be a quick announcement or a longer discussion, 
 demonstration, or activity. 
 - Help host or organize a community call. Follow the instructions on the 
-[readme](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme) to 
+[README.md](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme) to 
 reach out. You can use the resources in this repo, and you don’t even have to 
 run the call alone unless you want to.
 
@@ -52,7 +52,7 @@ you can’t find the most recent call.
 It would be wonderful to have a community call at a good time for you! Right 
 now, this is an issue of the availability of hosts. If you or someone you know 
 would be interested in hosting the call at another time, please reach out 
-following the instruction on the [readme](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme).
+following the instruction on the [README.md](https://github.com/Quansight-Labs/jupyter-communitycalls/#readme).
 
 
 ## What is this repository and how do I use it?
