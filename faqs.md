@@ -26,7 +26,9 @@ Some ideas include:
 - A project you worked on (whether you were a project manager, writer, 
 developer, designer, or contributor in any other way)
 - One of your favorite projects made by others in the community
--  Your favorite Jupyter notebook(s)
+- Your favorite Jupyter notebook(s)
+- How you use a particular Jupyterlab extension
+- A new extension you developed for Jupyterlab
 - A question to discuss
 - The way(s) you like to use Jupyter projects
 - Something we’ve never seen before
@@ -35,8 +37,8 @@ developer, designer, or contributor in any other way)
 There is a code of conduct. As a Jupyter event, everyone in the call is 
 expected to follow the [Project Jupyter Code of Conduct](https://jupyter.org/conduct/).
 
-It is also good practice to keep your mic muted when you are not talking 
-so it is easier to hear one another.
+It is also good practice to keep your microphone muted when you are not 
+talking so it is easier to hear one another.
 
 ## What happened at past calls?
 Community calls are recorded, so you can find out what happened on our 
@@ -57,5 +59,5 @@ following the instruction on the [readme](https://github.com/Quansight-Labs/jupy
  This repository is designed to collect community call information for 
  community members to easily find. It also is the way people organizing calls 
  make sure all tasks get done. If you are organizing a call, you can find out 
- [how to use the repo here]().
+ [how to use the repo here](how-to-use-this-repo.md).
 
