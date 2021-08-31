@@ -8,6 +8,7 @@ Schedule call
 - [ ] Add to calendars
 - [ ] Make HackMD agenda/notes
 - [ ] Schedule host (let different people host)
+- [ ] Update agenda on Jupyter community calendar
 
 Promote call/recruit presenters
 - [ ] Post on discourse 2 weeks before
