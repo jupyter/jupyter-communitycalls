@@ -1,19 +1,22 @@
 # jupyter-communitycalls
 Resources for planning and hosting the Jupyter community calls. Community calls are a place to have fun and celebrate the cool things people do with/in the Jupyter ecosystem and are open to all.
 
-# Next call: November 30 at 8am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2021-11-30/08:00/Jupyter%20Community%20Call))
+# Next call: January 25 at 8am Pacific (Your [timezone](https://arewemeetingyet.com/Los%20Angeles/2022-01-25/08:00/Jupyter%20Community%20Call))
 
-[![Sign up to present](https://img.shields.io/badge/-Sign%20up%20to%20present-orange)](https://hackmd.io/_Jc4d-QaT_qQdRp7hREibA?edit)
+😴 We will be taking a break from community calls in December to give the community time to rest. Join us again in January for a new year of Jupyter excitement!
+
+[![Sign up to present on the agenda](https://img.shields.io/badge/-Sign%20up%20to%20present%20on%20the%20agenda-orange)](https://hackmd.io/YIX3UHIiQFy2Uk3FmQA7XA)
+
+[![Join the meeting on Zoom](https://img.shields.io/badge/-Join%20the%20meeting%20on%20Zoom-brightgreen)](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
 
 [![Give feedback](https://img.shields.io/badge/-Give%20feedback-blue)](https://docs.google.com/forms/d/e/1FAIpQLScwfYswVhafS9PVIoQYepIExq3f-FP7EmsAFULCiTIgc7mRSA/viewform?usp=sf_link)
 
-[![Request to host](https://img.shields.io/badge/-Request%20to%20host-blueviolet)](https://gitter.im/isabela-pf)
-
-[![Join on Zoom](https://img.shields.io/badge/-Join%20on%20Zoom-brightgreen)](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
+[![Request to host by reaching out on Gitter](https://img.shields.io/badge/-Request%20to%20host%20by%20reaching%20out%20on%20Gitter-blueviolet)](https://gitter.im/isabela-pf)
 
 ## Index
 
-### From Jupyter
+### From Project Jupyter
+
 [Jupyter Code of Conduct](https://jupyter.org/conduct)
 
 [Jupyter community calendar](https://jupyter.readthedocs.io/en/latest/community/content-community.html#jupyter-community-meetings)
@@ -23,11 +26,16 @@ Resources for planning and hosting the Jupyter community calls. Community calls 
 [Recorded calls playlist](https://www.youtube.com/playlist?list=PLUrHeD2K9Cmkoamm4NjLmvXC4Y6E1o8SP)
 
 ### For Participants
-[Sign up to present](https://hackmd.io/_Jc4d-QaT_qQdRp7hREibA?edit)
+
+[Sign up to present on the agenda](https://hackmd.io/YIX3UHIiQFy2Uk3FmQA7XA)
 
 [Give feedback](https://docs.google.com/forms/d/e/1FAIpQLScwfYswVhafS9PVIoQYepIExq3f-FP7EmsAFULCiTIgc7mRSA/viewform?usp=sf_link)
 
+[Frequently Asked Questions (FAQs)](https://github.com/Quansight-Labs/jupyter-communitycalls/blob/main/faqs.md)
+
 ### For Hosts
+
+[How to use this repository](https://github.com/Quansight-Labs/jupyter-communitycalls/blob/main/host-guidelines.md)
 
 [Community call goals](https://github.com/isabela-pf/jupyter-communitycalls/blob/main/goals.md)
 
