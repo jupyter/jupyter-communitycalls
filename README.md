@@ -1,5 +1,5 @@
 # jupyter-communitycalls
-Resources for planning and hosting the Jupyter community calls. Community calls are a place to have fun and celebrate the cool things people do with/in the Jupyter ecosystem and are open to all.
+Resources for planning and hosting the Jupyter community calls. Community calls are a place to have fun and celebrate the cool things people do with/in the Jupyter ecosystem and are open to all. Many thanks to all the folks who have made this resource available with a special highlight of the leadership from Isabela Presedo-Floyd and Tony Fast.
 
 # Next call: To be determined.
 
