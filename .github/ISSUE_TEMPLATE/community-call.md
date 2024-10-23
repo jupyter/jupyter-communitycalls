@@ -1,3 +1,7 @@
+---
+name: Community Call Checklist
+about: Checklist for hosting Community Calls
+---
 ## <!--Add date here--> meeting to dos
 
 <!--Use this PR to change the readme with details for the call two months out. That way when this
